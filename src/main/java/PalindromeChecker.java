@@ -59,3 +59,4 @@ public String lowerNoSpaceLetter(String word) {
   }
   return lower.toLowerCase();
 }
+}
